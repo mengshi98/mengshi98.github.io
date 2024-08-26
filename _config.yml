@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "About"
+title: "Stone Meng / Academic Page"
 title_separator: "-"
 name: &name "Shi Meng (Stone Meng)"
 description: &description "I am currently a postgraduate student at the Chinese Academy of Sciences, specializing in dispatch algorithms for mining fleets. My research focuses on optimal and intelligent decision-making for transportation systems. I have a year of experience as a data engineer at Tonghuashun, an online stock trading platform. Proficient in Spark, Hive, and Hadoop, I also founded Cognimatrix.co, a company that introduces LLM agents to the gaming industry."
