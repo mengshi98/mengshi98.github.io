@@ -20,7 +20,6 @@ Work experience
   * Company: 10jqka.com.cn
   * Duties included: ETL for large scale company data, engineer.
 
-======
 * Summer 2024: AI Scientist Intern
   * Company: 4paradigms
   * Duties included: chinese ability enhancement of nllb-200.
