@@ -11,15 +11,21 @@ redirect_from:
 
 Education
 ======
-* M.S. in Control Theory, Institute of Automation, Chinese Academy of Science, 2025(expected)
-* B.S. in Physics, JiLin University, 2020
+* M.S. in Control Theory, Institute of Automation, Chinese Academy of Sciences, 2025
+* B.S. in Physics, Ji Lin University, 2020
 
 Work experience
 ======
-* Summer 2020: BigData Engineer
-  * TongHuaShun(10jqka.com.cn)
+* Summer 2020: Big Data Engineer
+  * Company: 10jqka.com.cn
   * Duties included: ETL for large scale company data, engineer.
-  
+
+======
+* Summer 2024: AI Scientist Intern
+  * Company: 4paradigms
+  * Duties included: chinese ability enhancement of nllb-200.
+
+
 Skills
 ======
 * Linux
