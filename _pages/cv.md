@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
+* Summer 2020: BigData Engineer
   * TongHuaShun(10jqka.com.cn)
   * Duties included: ETL for large scale company data, engineer.
   
@@ -26,7 +26,7 @@ Skills
 * Python
   * transformers
   * pytorch-lightning
-  * pygurobi
+  * gurobipy
 * Rust
 * CI/CD
 * Team Management
